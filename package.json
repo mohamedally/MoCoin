@@ -1,0 +1,24 @@
+{
+  "name": "mocoin",
+  "version": "1.0.0",
+  "description": "A simple Blockchain implementation for a virtual cryptocurrency called MoCoin",
+  "main": "src/blockChain.js",
+  "dependencies": {
+    "elliptic": "^6.5.3",
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedally/MoCoin.git"
+  },
+  "author": "Mohamed Ally Iddi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedally/MoCoin/issues"
+  },
+  "homepage": "https://github.com/mohamedally/MoCoin#readme"
+}
